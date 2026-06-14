@@ -1,2 +1,2 @@
-# jalot
+# Joop Mulder
 magento for jalot shop
